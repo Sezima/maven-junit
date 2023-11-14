@@ -1,0 +1,11 @@
+<?xml version ="1.0" encoding = "UTF -8"?>
+
+
+<Book category = "Non Fiction" class="Biography"> // open tag
+    <!-- This is the comment sections example -->
+    <authour>Walter White</authour> // sub elements sibling class parent class is Book
+    <!-- This is the comment sections example -->
+    <title>Breaking Bad</title> // sub elements sibling class parent class is Book
+    <Year type = "Even">2000</Year>  // sub elements sibling class parent class is Book
+    <color color = "Red">World4Ransom</color>
+</Book>
